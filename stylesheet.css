@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header{
+	padding: 16px 0;
+
+}
+
+h1{
+	text-decoration: none;
+}
+.content {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+
+
+}
+
+.btn {
+	display: block;
+	width: 160px;background-color: #329e00;
+	color: aliceblue;
+	text-align: center;
+	padding: 8px 0;
+	border-radius: 4px;
+	text-decoration: none;
+	
+}
+
+
+.hero {
+	background-color: #fbff88;
+	text-align: center;
+	padding: 64px;
+	
+}
+
